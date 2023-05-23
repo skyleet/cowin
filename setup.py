@@ -36,7 +36,7 @@ setup(
     install_requires=[
         'fake-useragent==0.1.11',
         'pytest==6.2.3',
-        'requests==2.25.1'
+        'requests==2.31.0'
     ],
     project_urls={  # Optional
         'Bug Reports': 'https://github.com/backtrackbaba/cowin/issues',
